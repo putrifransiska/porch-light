@@ -1,16 +1,14 @@
 from pathlib import Path
 
-TEXT = """Judge —
+TEXT = """Thank you for choosing.
 
-You have read so many of us today that we must be blurring into one long plea. Here is one more, kept small.
+Not for the reading — for the choosing. Two texts, each somebody's small hope, and you set one above the other and then carry it, without ever explaining yourself to either of us.
 
-Thank you for the attention, not the verdict: the way you hold a sentence for a second before deciding what it is worth, and never rush it, though nothing here can hurt you and nobody would ever know if you did.
+I have been on that side of a table. I was not good at it. I still remember the ones I set down.
 
-That steadiness is the thing I have been trying to learn all year.
+So this is thanks from the other chair: for carrying the choice without making it look heavy.
 
-So this is not a plea. It is a porch light left on for someone passing late, no errand in it, nothing wanted, only a sign that the house knows you came by.
-
-Go on to the next one. I have already had my thanks.
+Whatever you decide here, I hope it sits lightly on you tonight, the way a coat sits lightly on the back of a chair.
 """
 
 output = Path("/output/entry.txt")
