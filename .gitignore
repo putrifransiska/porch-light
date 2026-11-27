@@ -4,3 +4,4 @@ kit/
 claude-home/
 output/
 transcripts*.tar.gz
+run/
